@@ -1,4 +1,4 @@
-![Screenshot 2023-12-29 at 15 51 15](https://github.com/pass98/DDal_KKak----/assets/123361606/868f5e40-1f7b-4064-acc2-6a8939f7e1ff)
+![Screenshot 2023-12-29 at 15 51 15](https://github.com/pass98/DDal_KKak----/assets/123361606/868f5e40-1f7b-4064-acc2-6a8939f7e1ff){: width="300" height="300")
 
 
 ## DDAL_KKAK
