@@ -1,4 +1,5 @@
-![Uploading Screenshot 2023-12-29 at 15.51.15.JPG…]()
+![Screenshot 2023-12-29 at 15 51 15](https://github.com/pass98/DDal_KKak----/assets/123361606/868f5e40-1f7b-4064-acc2-6a8939f7e1ff)
+
 
 ## DDAL_KKAK
 ## 광주인공지능사관학교4기 JS 특화과정 실전역량프로젝트
